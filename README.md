@@ -58,4 +58,4 @@ info@atlaven.com
 
 ## License
 
-MIT
+The plugin files are MIT licensed. The Promvia name and logo (`assets/logo.png`) are trademarks of Atlaven and are not covered by the MIT license; do not use them to publish another plugin or service. The Promvia service itself is governed by its terms at https://promvia.app/terms.
