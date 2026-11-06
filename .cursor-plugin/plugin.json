@@ -1,0 +1,33 @@
+{
+  "name": "promvia",
+  "displayName": "Promvia",
+  "version": "1.0.0",
+  "description": "See where ChatGPT, Perplexity, Gemini and Google AI cite your site.",
+  "author": {
+    "name": "The Promvia team",
+    "email": "info@atlaven.com"
+  },
+  "homepage": "https://promvia.app/developers",
+  "repository": "https://github.com/atlaven/promvia-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "promvia",
+    "mcp",
+    "ai-visibility",
+    "geo",
+    "aeo",
+    "citations",
+    "seo",
+    "chatgpt",
+    "perplexity"
+  ],
+  "category": "integrations",
+  "tags": [
+    "promvia",
+    "mcp",
+    "seo",
+    "aeo"
+  ],
+  "mcpServers": "./mcp.json"
+}
