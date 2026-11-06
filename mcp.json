@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "promvia": {
+      "type": "http",
+      "url": "https://promvia.app/api/mcp"
+    }
+  }
+}
